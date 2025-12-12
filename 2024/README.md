@@ -11,9 +11,9 @@
 
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85%E2%98%85/green)](#d01)
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85%E2%98%85/green)](#d02)
-[![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86%E2%98%86/gray)](#d03)
-[![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86%E2%98%86/gray)](#d04)
-[![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86%E2%98%86/gray)](#d05)
+[![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85%E2%98%85/green)](#d03)
+[![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85%E2%98%85/green)](#d04)
+[![Day](https://badgen.net/badge/05/%E2%98%85%E2%98%85%E2%98%85/green)](#d05)
 [![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86%E2%98%86/gray)](#d06)
 [![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86%E2%98%86/gray)](#d07)
 [![Day](https://badgen.net/badge/08/%E2%98%86%E2%98%86%E2%98%86/gray)](#d08)
@@ -45,6 +45,36 @@ Runtime: ...
 ## <a name="d02"></a> Quest 02: The Runes Of Power
 
 [Task description](https://everybody.codes/event/2024/quests/2) - [Complete solution](quest02/the_runes_of_power.py) - [Back to top](#top)  
+
+Runtime: ...  
+
+### Notes
+
+...  
+
+## <a name="d03"></a> Quest 03: Mining Maestro
+
+[Task description](https://everybody.codes/event/2024/quests/3) - [Complete solution](quest03/mining_maestro.py) - [Back to top](#top)  
+
+Runtime: ...  
+
+### Notes
+
+...  
+
+## <a name="d04"></a> Quest 04: Royal Smiths Puzzle
+
+[Task description](https://everybody.codes/event/2024/quests/4) - [Complete solution](quest04/royal_smiths_puzzle.py) - [Back to top](#top)  
+
+Runtime: ...  
+
+### Notes
+
+...  
+
+## <a name="d05"></a> Quest 05: Pseudo Random Clap Dance
+
+[Task description](https://everybody.codes/event/2024/quests/5) - [Complete solution](quest05/pseudo_random_clap_dance.py) - [Back to top](#top)  
 
 Runtime: ...  
 

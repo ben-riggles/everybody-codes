@@ -38,9 +38,9 @@ def create(year: int, day: int, name: str):
     if not data_dir.exists():
         data_dir.mkdir()
     for i in range(1, 4):
-        test_file = data_dir.joinpath(f'{i}_test')
+        test_file = data_dir.joinpath(f'{i}_test.txt')
         with open(test_file, mode='w') as f: pass
-        data_file = data_dir.joinpath(f'{i}')
+        data_file = data_dir.joinpath(f'{i}.txt')
         with open(data_file, mode='w') as f: pass    
 
     template_py = Path.cwd().joinpath('evco/templates/py.py')
