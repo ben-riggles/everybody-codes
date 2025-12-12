@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 *.pstats
 *.prof
-data/*.txt
+**/data/*.txt
+!**/data/*_test.txt
